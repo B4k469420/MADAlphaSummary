@@ -16,7 +16,7 @@ You will also need to have accounts on Etherscan, Infura and Moralis, and obtain
 ## Installation
 
 1. Clone this repository to your local machine:
-```git clone https://github.com/<your-username>/madmetaverse-alpha-summary.git```
+```git clone https://github.com/B4k469420/MADAlphaSummary.git```
 2. Install the required packages:
 ```pip install -r requirements.txt```
 3. Download the transaction data CSV file(s) from Etherscan and place it in the 'data' folder.
