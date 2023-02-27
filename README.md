@@ -28,7 +28,7 @@ You will also need to have accounts on Etherscan, Infura and Moralis, and obtain
 ## Usage
 Update the API keys in the notebook with your own Etherscan, Infura and Moralis API keys.
 
-Run the notebook cells in order to retrieve the transaction data and estimate the transaction costs.
+Run the notebook cells in order to retrieve the transaction data, estimate the transaction costs, and get summary statistics.
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
